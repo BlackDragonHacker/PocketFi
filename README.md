@@ -1,6 +1,6 @@
 # PocketFi Bot
 
-Auto Claim for PockerFi Telegram Bot
+Auto Claim for PocketFi Telegram Bot
 
 
 # Features
